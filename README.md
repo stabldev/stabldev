@@ -1,8 +1,4 @@
 ## stabldev
 
-> _Code that holds.  
-> Logic that lingers.  
-> Quietly built, never brittle._
-
-I don’t ship fast.  
-I ship **solid**.
+> _frameworks fade. logic stays.  
+that’s where i work._
